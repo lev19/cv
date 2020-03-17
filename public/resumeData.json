@@ -35,15 +35,15 @@
     "education":[
       {
         "school":"Technion",
-        "degree":"Masters in Beer tasting",
-        "graduated":"April 2007",
-        "description":"Describe your experience at school, what you learned, what useful skills you have acquired etc."
+        "degree":"Bachelor of Engineering",
+        "graduated":"1997",
+        "description":"Chemical Engineering"
       },
       {
-        "school":"School #1 Maybe College?",
-        "degree":"What did you study 101",
-        "graduated":"March 2003",
-        "description":"Describe your experience at school, what you learned, what useful skills you have acquired etc."
+        "school":"IDF, ",
+        "degree":"Software course for programmers",
+        "graduated":"1997",
+        "description":"C++,Oracle"
       }
     ],
     "work":[
