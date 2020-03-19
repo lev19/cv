@@ -14,7 +14,7 @@
       "state":"Israel",
       "zip": "32001"
     },
-    "website": "http://www.timbakerdev.com",
+    "website": "",
     "resumedownload":"/pdf/cv.pdf",
     "audioFileName":"LinkinPark.mp3",
     "social":[
@@ -34,24 +34,24 @@
     "skillmessage":"Here you can create a short write-up of your skills to show off to employers",
     "education":[
       {
-        "school":"Technion",
+        "school":"TECHNION",
         "degree":"Bachelor of Engineering",
         "graduated":"1997",
-        "description":"Chemical Engineering"
+        "description":"department of chemical engineering, graduated"
       },
       {
-        "school":"IDF, ",
+        "school":"IDF,computer department of Israel Airforce",
         "degree":"Software course for programmers",
         "graduated":"1997",
-        "description":"C++,Oracle"
+        "description":"C++,Oracle,General Computer Science, data structures, algorithms"
       }
     ],
     "work":[
       {
-        "company":"Awesome Design Studio",
-        "title":"Senior UX God ",
-        "years":"March 2010 - Present",
-        "description":"Describe work, special projects, notable achievements, what technologies you have been working with, and anything else that would be useful for an employer to know."
+        "company":"IEC",
+        "title":"Web Programmer ",
+        "years":"2000-2009",
+        "description":"Inderdev, Magic, Oracle, Javascript,DOT.Net,C#"
       },
       {
         "company":"Super Cool Studio",

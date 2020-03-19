@@ -35,7 +35,7 @@ function Header ({data}) {
       </nav>
 
       <div className="row banner">
-      <AudioPlayer data={data}></AudioPlayer>
+      <AudioPlayer data={data} autoPlay={false}></AudioPlayer>
          <div className="banner-text">
             <h1 className="responsive-headline">I'm {name}.</h1>
             <h3>I'm a {city} based <span>{occupation}</span>. {description}.</h3>
