@@ -34,7 +34,7 @@
     "skillmessage":"Here you can create a short write-up of your skills to show off to employers",
     "education":[
       {
-        "school":"TECHNION",
+        "school":"TECHNION,  Israel institute of technology",
         "degree":"Bachelor of Engineering",
         "graduated":"1997",
         "description":"department of chemical engineering, graduated"
@@ -49,44 +49,68 @@
     "work":[
       {
         "company":"IEC",
-        "title":"Web Programmer ",
+        "website":"https://www.iec.co.il",
+        "title":"Web Programmer",
         "years":"2000-2009",
-        "description":"Inderdev, Magic, Oracle, Javascript,DOT.Net,C#"
+        "description":"ASP, Oracle, Javascript,DOT.Net, C#, WCF, Web Services,Event log services,windows scheduled task"
       },
       {
-        "company":"Super Cool Studio",
-        "title":"Junior bug fixer",
-        "years":"March 2007 - February 2010",
-        "description":"Describe work, special projects, notable achievements, what technologies you have been working with, and anything else that would be useful for an employer to know."
+        "company":"Advantech Ltd",
+        "website":"https://www.advantech.co.il/",
+        "title":"Programmer",
+        "years":"2009-2011",
+        "description":"Sharepoint 2010, C#,MVC3, HTML 5, MySQL , Rest, Soap,ASP.NET 4, LINQ, Design Patterns, Entity Framework"
+      },
+      {
+        "company":"IDC,Interdisciplinary Center Herzliya",
+        "website": "https://www.idc.ac.il/en/pages/home.aspx",
+        "title":"Web Programmer",
+        "years":"2011-2015",
+        "description":"AngularJs, C#,MVC,jQuery Mobile, HTML 5, MS-SQL,ASP.NET 4"
+      },
+      {
+        "company":"Silverbyte",
+        "website": "http://silverbyte.com/",
+        "title":"Programmer",
+        "years":"2015-Current",
+        "description":"Sharepoint 2010, C#,MVC3, HTML 5, MySQL , Rest, Soap,ASP.NET 4, LINQ, Design Patterns, Entity Framework"
       }
     ],
     "skills":[
       {
-        "name":"Git",
-        "level":"60%"
-      },
-      {
-        "name":"Illustrator",
-        "level":"55%"
-      },
-      {
-        "name":"ReactJs",
-        "level":"50%"
-      },
-      {
-        "name":"CSS",
-        "level":"90%"
-      },
-      {
-        "name":"HTML5",
+        "name":"AngularJs",
         "level":"80%"
       },
       {
-        "name":"VueJs",
-        "level":"50%"
+        "name":"Javascript",
+        "level":"90%"
       },
       {
-        "name":"MongoDB",
+        "name":"ReactJs",
+        "level":"85%"
+      },
+      {
+        "name":"C#",
+        "level":"90%"
+      },
+      {
+        "name":"Entity Framework",
+        "level":"80%"
+      },
+      {
+        "name":"SQL",
+        "level":"70%"
+      },
+      {
+        "name":"ASP.NET",
+        "level":"90%"
+      },
+      {
+        "name":"TFS",
+        "level":"90%"
+      },
+      {
+        "name":"Visual studio code evirement",
         "level":"80%"
       }
     ]
@@ -106,24 +130,37 @@
         "url":"https://www.idc.ac.il/en/library/pages/library-services.aspx"
       },
       {
-        "title":" IDC Herzliya scholarship dynamic forms",
-        "category":"Financial Aid and Scholarships Undergraduate",
+        "title":" IDC Herzliya scholarship dynamic forms,Financial Aid and Scholarships",
+        "category": "Uploaded forms portal, C#,JavaScript,Scheduler tasks",
         "image":"RRIS.jpg",
         "url":"https://www.idc.ac.il/en/schools/rris/undergraduate/pages/tracks.aspx"
       },
       {
-        "title":"Resume Website",
-        "category":"A React based resume website template",
-        "image":"resume-website.jpg",
-        "url":"http://www.timbakerdev.com"
+        "title":"Azorim Construction Ltd",
+        "category":"Search portal. C#,Javascript,Sharepoint",
+        "image":"azorim.jpg",
+        "url":"https://www.azorim.co.il/en/projects"
       },
       {
-        "title":"Smirkspace",
-        "category":"(MVP Only) A React and Meteor based chat University project.",
-        "image":"smirkspace.jpg",
-        "url":"http://www.smirkspace.com"
+        "title":"Hertz car rental services in Israel",
+        "category":"CRM and Search portal,Microsoft Dynamic CRM, C#,JavaScript",
+        "image":"Hertz.jpg",
+        "url":"https://www.hertz.co.il/en/homepage/.aspx"
+      },
+      {
+        "title":"Silverbyte, PMS",
+        "category":"algorithms",
+        "image":"PMS.jpg",
+        "url":null
+      },
+      {
+        "title":"Silverbyte, Data transfer to chanels",
+        "category":"algorithms",
+        "image":"chanels.jpg",
+        "url":null
       }
     ]
+    
   },
   "testimonials":{
     "testimonials":[

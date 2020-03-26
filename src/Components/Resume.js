@@ -1,5 +1,5 @@
 import React, { Component } from 'react';
-
+import { Divider } from 'semantic-ui-react';
 class Resume extends Component {
   render() {
 
@@ -12,8 +12,10 @@ class Resume extends Component {
       })
       var work = this.props.data.work.map(function(work){
         return <div key={work.company}><h3>{work.company}</h3>
+        <a href={work.website} target="_blank" >{work.website}</a>
             <p className="info">{work.title}<span>&bull;</span> <em className="date">{work.years}</em></p>
             <p>{work.description}</p>
+            <Divider />
         </div>
       })
       var skills = this.props.data.skills.map(function(skills){
