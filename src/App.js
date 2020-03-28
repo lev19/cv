@@ -44,7 +44,6 @@ const [mutualState,SetNutualState] =useState( { foo: 'bar',resumeData: {}});
         <About data={mutualState.resumeData.main}/>
         <Resume data={mutualState.resumeData.resume}/>
         <Portfolio data={mutualState.resumeData.portfolio}/>
-        <Testimonials data={mutualState.resumeData.testimonials}/>
         <Contact data={mutualState.resumeData.main}/>
         <Footer data={mutualState.resumeData.main}/>
       </div>
