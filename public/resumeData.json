@@ -66,31 +66,36 @@
         "website": "https://www.idc.ac.il/en/pages/home.aspx",
         "title":"Web Programmer",
         "years":"2011-2015",
-        "description":"AngularJs, C#,MVC,jQuery Mobile, HTML 5, MS-SQL,ASP.NET 4"
+        "description":"AngularJs, C#,  MVC,   jQuery Mobile,  HTML 5, MS-SQL,ASP.NET 4"
       },
       {
         "company":"Silverbyte",
         "website": "http://silverbyte.com/",
         "title":"Programmer",
         "years":"2015-Current",
-        "description":"Sharepoint 2010, C#,MVC3, HTML 5, MySQL , Rest, Soap,ASP.NET 4, LINQ, Design Patterns, Entity Framework"
+        "description":"React/REDUX/HOOKS,    Angular,   JavaScript/jQuery, C#,  ASP.NET WebApi,  ASP.NET MVC,   Multithreading,   Troubleshoot High .NET App CPU and complexity,   Worked in both Agile and Waterfall settings"
       }
     ],
     "skills":[
       {
-        "name":"AngularJs",
-        "level":"80%"
+        "name":"ReactJs",
+        "level":"85%"
       },
       {
         "name":"Javascript",
         "level":"90%"
       },
       {
-        "name":"ReactJs",
-        "level":"85%"
+        "name":"AngularJs",
+        "level":"80%"
       },
       {
         "name":"C#",
+        "level":"90%"
+      },
+     
+      {
+        "name":"ASP.NET",
         "level":"90%"
       },
       {
@@ -100,10 +105,6 @@
       {
         "name":"SQL",
         "level":"70%"
-      },
-      {
-        "name":"ASP.NET",
-        "level":"90%"
       },
       {
         "name":"TFS",
@@ -118,47 +119,91 @@
   "portfolio":{
     "projects": [
       {
+        "title":"Silverbyte, Property Management System",
+        "category":"Algorithms",
+        "image":"PMS.jpg",
+        "url":null,
+        "itemsproject":[
+          {
+            "title":"Build WEB API SERVICES for hotel management of: PRICE OF THE ROOM , YIELD BY DATES, AVAILIBILITY, CALENDAR OF RESERVARTIONS, MAINTAINACE OF THE ROOM IN HOTEL, INVENTORY",
+            "skills":"C#,Entity Framework 6,SQL"
+          }
+        ],
+        "projectTitle":"Hotel Property Management System",
+        "projectDescription":
+        "Developing Hotel Property Management System. The system used for reservation, availability and occupancy management, check-in/out, images, guest profiles, report generation etc. This application is used in-house (in an individual hotel) to control the onsite property activities.The system is installed in 90% of Israel hotels. As also in hotel of Germany,Holland,UK and others countires"
+ 
+       },
+       {
+        "title":"Silverbyte, Property Management System - GUI",
+        "category":"Client side reach user interface",
+        "image":"PMS.jpg",
+        "url":null,
+        "itemsproject":[
+          
+          {
+            "title":"Build different GUI for update of inventory Hotel Property Management System",
+            "skills":"AngularJs, ReactJs,Pure Javascript"
+          }
+        ],
+        "projectTitle":"GUI for Hotel Management",
+        "projectDescription":
+        "Developing client side GUI. Using of self developed controls and exsiting javascript libraries: kendo, semantic ui react, devextreme  reactive"
+ 
+       },
+      {
+        "title":"Silverbyte, Hotel Data Transfer",
+        "category":"Algorithms",
+        "image":"chanels.jpg",
+        "url":null,
+        "itemsproject":[
+          {
+            "title":"Build server side algorithms, for example room price on specific dates depends on diffirent paramers like availibility, yield, occupancy, maitainace ",
+            "skills":"C#,Entity Framework 6,Design Patterns"
+          }
+        ],
+        "projectTitle":"Hotel Data Transfer",
+        "projectDescription":
+        "Developing a tool that will allow you to sell all your rooms on all your connected booking sites (like Booking.com ,Expedia, AirBNB ) at the same time. It will automatically update your availability in real-time on all sites when a booking is made, when you close a room to sale, or when you want to make bulk changes to your inventory"
+       
+            }
+      ,
+      {
         "title":"IDC Herzliya",
         "category":"Portals",
         "image":"IDC.jpg",
-        "url":"https://www.idc.ac.il/en/schools/rris/pages/home.aspx"
+        "url":"https://www.idc.ac.il/en/schools/rris/pages/home.aspx",
+        "itemsproject":null
       },
       {
-        "title":"The IDC Library",
+        "title":"IDC Herzliya,The IDC Library",
         "category":"Search portal",
         "image":"Library.jpg",
-        "url":"https://www.idc.ac.il/en/library/pages/library-services.aspx"
+        "url":"https://www.idc.ac.il/en/library/pages/library-services.aspx",
+        "itemsproject":null
       },
       {
-        "title":" IDC Herzliya scholarship dynamic forms,Financial Aid and Scholarships",
+        "title":"IDC Herzliya, IDC Herzliya scholarship dynamic forms,Financial Aid and Scholarships",
         "category": "Uploaded forms portal, C#,JavaScript,Scheduler tasks",
         "image":"RRIS.jpg",
-        "url":"https://www.idc.ac.il/en/schools/rris/undergraduate/pages/tracks.aspx"
+        "url":"https://www.idc.ac.il/en/schools/rris/undergraduate/pages/tracks.aspx",
+        "itemsproject":null
       },
       {
-        "title":"Azorim Construction Ltd",
+        "title":"Advantech,Azorim Construction Ltd",
         "category":"Search portal. C#,Javascript,Sharepoint",
         "image":"azorim.jpg",
-        "url":"https://www.azorim.co.il/en/projects"
+        "url":"https://www.azorim.co.il/en/projects",
+        "itemsproject":null
       },
       {
-        "title":"Hertz car rental services in Israel",
+        "title":"Advantech,Hertz car rental services in Israel",
         "category":"CRM and Search portal,Microsoft Dynamic CRM, C#,JavaScript",
         "image":"Hertz.jpg",
-        "url":"https://www.hertz.co.il/en/homepage/.aspx"
-      },
-      {
-        "title":"Silverbyte, PMS",
-        "category":"algorithms",
-        "image":"PMS.jpg",
-        "url":null
-      },
-      {
-        "title":"Silverbyte, Data transfer to chanels",
-        "category":"algorithms",
-        "image":"chanels.jpg",
-        "url":null
+        "url":"https://www.hertz.co.il/en/homepage/.aspx",
+        "itemsproject":null
       }
+      
     ]
     
   },
