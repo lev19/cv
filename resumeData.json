@@ -23,12 +23,8 @@
         "name":"linkedin",
         "url":"https://www.linkedin.com/in/lev-faiger-96034a27/",
         "className":"fa fa-linkedin"
-      },
-      {
-        "name":"github",
-        "url":"https://github.com/lev19",
-        "className":"fa fa-github"
       }
+      
     ]
   },
   "resume":{
