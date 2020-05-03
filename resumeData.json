@@ -28,7 +28,8 @@
     ]
   },
   "resume":{
-    "skillmessage":"Here you can create a short write-up of your skills to show off to employers",
+    "skillmessage":"Server side: C#, ASP.NET , .NET Core",
+    "skillSubMessage":"Client side: Vanilla JavaScript ES5, ES6; ReactJs;" ,
     "education":[
       {
         "school":"TECHNION,  Israel institute of technology",
@@ -75,12 +76,12 @@
     ],
     "skills":[
       {
-        "name":"ReactJs",
-        "level":"85%"
+        "name":"Vanilla JavaScript ES5, ES6",
+        "level":"90%"
       },
       {
-        "name":"Javascript",
-        "level":"90%"
+        "name":"ReactJs",
+        "level":"85%"
       },
       {
         "name":"AngularJs",
@@ -94,6 +95,14 @@
       {
         "name":"ASP.NET",
         "level":"90%"
+      },
+      {
+        "name":".NET Core",
+        "level":"30%"
+      },
+      {
+        "name":"KAFKA",
+        "level":"60%"
       },
       {
         "name":"Entity Framework",
